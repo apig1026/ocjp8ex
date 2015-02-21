@@ -2,11 +2,12 @@ package com.ajoshow.ocjp8ex;
 
 /**
  * Main entrance is only used to generate dummy data. 
- * To do as many exercises as you want, please follow steps below:
+ * To create an exercise, please follow steps below:
  * 1. Create a class and inherits {@link BaseTest}.
- * 2. Implements the methods.
- * 3. Run JUnit and test with it.
- * 4. Check result!
+ * 2. Write up comments about objective of this class. (Please refer objective.txt)
+ * 3. Implements the methods.
+ * 4. Run JUnit and test with it.
+ * 5. Check result!
  * 
  * @author Andy
  */

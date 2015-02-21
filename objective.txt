@@ -1,5 +1,15 @@
-http://java.boot.by/ocpjp8-upgrade-guide/index.html
+==============================================================
+Book resources
+==============================================================
+Java 8 in Actions
+http://filepi.com/i/EzC7bQY
 
+Java 8 Lambda
+http://filepi.com/i/Jva412Z
+
+==============================================================
+http://java.boot.by/ocpjp8-upgrade-guide/index.html
+==============================================================
 Preface
 I. Exam Objectives
 1. Lambda Expressions
