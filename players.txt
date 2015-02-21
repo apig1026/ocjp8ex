@@ -1,0 +1,1000 @@
+Kera Zych,32,Norway,99,73
+Karine Slemp,35,Finland,82,53
+Lizzie Middendorf,21,Tajikistan,85,76
+Joe Chou,33,Panama,82,89
+Fatima Whittenberg,37,Saint Lucia,87,41
+Fran Gamon,12,Thailand ,71,74
+Neil Kreps,37,Grenada,68,31
+Lia Migues,17,Benin,91,84
+Kenyetta Longnecker,25,San Marino,56,38
+Nedra Brien,29,Hungary,65,97
+Arletta Lash,26,Israel,90,74
+Jennie Wilbur,32,Saint Lucia,94,98
+Leola Lawler,31,Lesotho,92,82
+Margert Rideout,33,Nicaragua,98,71
+Precious Stitt,25,Barbados,66,44
+Sherrie Wayland,34,China,54,80
+Jennie Wilbur,21,Saint Lucia,52,80
+Nedra Brien,17,Libya,84,48
+Hosea Radabaugh,14,Sudan,59,70
+Bari Kowal,17,Mauritius,83,33
+Kera Zych,17,Palau,63,53
+Chase Siders,33,Kazakhstan,51,69
+Joesph Pasquariello,23,Togo,96,34
+Loan Gautreau,15,Angola,56,98
+Precious Stitt,29,Ecuador,85,66
+Helena Notter,33,Haiti,67,94
+Rosanna Holzer,20,Guatemala,86,31
+Andy Chu,36,Tonga,77,59
+Ping Pickert,29,Tunisia,95,64
+Hosea Radabaugh,28,Slovakia,59,69
+Andy Chu,24,Montenegro,72,76
+Helena Notter,13,Kyrgyzstan,65,52
+Filomena Conely,32,Norway,87,38
+Madelyn Brookshire,12,Monaco,63,95
+Rosamaria Espy,31,Slovenia,65,90
+Earleen Twyman,29,Paraguay,56,99
+Malena Albertson,37,Liechtenstein,61,94
+Joe Chou,36,Uzbekistan,74,86
+Fatima Whittenberg,34,Nepal,51,99
+Rosaline Varona,35,Bhutan,52,67
+Earleen Twyman,19,China,58,89
+Ina Chesnut,36,Belgium,53,80
+Rex Bisignano,19,Panama,54,39
+Kermit Sobotka,23,Czech Republic,64,88
+Joesph Pasquariello,37,Australia,84,62
+Lilliam Blankenbaker,11,Guatemala,57,95
+Helena Notter,10,Kiribati,96,93
+Lia Migues,38,Liechtenstein,96,78
+Fran Gamon,36,Belize,64,56
+Kera Zych,39,Finland,57,40
+Rex Bisignano,39,Saint Lucia,92,71
+Earleen Twyman,25,Morocco,62,79
+Lesia Gragg,35,Yemen,91,50
+Malena Albertson,32,Tajikistan,54,31
+Shantelle Juarbe,26,Brazil,78,64
+Melonie Elmore,35,Greece,64,80
+Pandora Veliz,33,Angola,89,92
+Margert Rideout,35,Chile,55,56
+Fran Gamon,17,Suriname,95,65
+Rosamaria Espy,24,Cuba,86,81
+Sherrie Wayland,30,Mali,89,59
+Chase Siders,12,India,84,54
+Rex Bisignano,25,Netherlands,76,73
+Lanell Juan,19,Venezuela,95,85
+Kera Zych,18,Kiribati,92,53
+Precious Stitt,37,Paraguay,55,96
+Rex Bisignano,33,Ecuador,87,96
+Lia Migues,35,Djibouti,87,93
+Chase Siders,35,Lebanon,76,66
+Jannette Ashcroft,26,Senegal,80,80
+Kermit Sobotka,29,Swaziland ,58,71
+Lilliam Blankenbaker,26,Honduras,97,59
+Jannette Ashcroft,32,Djibouti,96,80
+Ludie Christofferse,13,Kazakhstan,63,78
+Shantelle Juarbe,37,Lithuania,65,34
+Lilliam Blankenbaker,23,Netherlands,82,44
+Flavia Childs,16,Bangladesh,62,70
+Lesia Gragg,35,Kuwait,77,76
+Helena Notter,39,Moldova,76,35
+Rosanna Holzer,18,Iceland,82,98
+Joesph Pasquariello,24,Burundi,92,49
+Rex Bisignano,32,Andorra,91,44
+Andy Chu,37,Israel,91,57
+Shantelle Juarbe,29,Timor-Leste,70,74
+Lesia Gragg,36,Namibia,99,98
+Ina Chesnut,23,Guinea,70,79
+Ina Chesnut,23,Norway,88,91
+Jennie Wilbur,21,Austria,55,43
+Flavia Childs,19,Mauritius,90,95
+Loan Gautreau,16,Somalia,98,99
+Dee Zook,24,Estonia,60,31
+Ollie Lastrapes,35,Uruguay,73,53
+Filomena Conely,12,Luxembourg,51,97
+Mozella Ganey,27,Palestinian Territories,66,75
+Rosanna Holzer,18,Bosnia and Herzegovina,62,53
+Jannette Ashcroft,35,Afghanistan,58,91
+Karine Slemp,28,Rwanda,83,64
+Kermit Sobotka,10,Burma,81,71
+Neil Kreps,20,Lesotho,82,49
+Ludie Christofferse,37,Liechtenstein,75,71
+Lanell Juan,11,Uzbekistan,83,65
+Loan Gautreau,18,Gabon,65,86
+Herma Liebel,19,Cyprus,54,32
+Chase Siders,12,Israel,77,98
+Helena Notter,22,Serbia,95,65
+Herma Liebel,36,Swaziland ,73,50
+Nedra Brien,12,Guatemala,56,47
+Leola Lawler,23,Qatar,97,68
+Rosaline Varona,26,Somalia,79,52
+Zetta Leary,31,Latvia,80,32
+Neil Kreps,15,Indonesia,83,57
+Rosanna Holzer,10,Brazil,71,57
+Joe Chou,32,Morocco,89,72
+Earleen Twyman,21,North Korea,87,40
+Jennie Wilbur,36,Japan,73,44
+Kermit Sobotka,14,Sierra Leone,100,77
+Lizzie Middendorf,29,Nauru,53,47
+Precious Stitt,26,Sint Maarten,53,67
+Kenyetta Longnecker,18,Nigeria,79,61
+Helena Notter,39,Monaco,56,64
+Joesph Pasquariello,30,South Korea,73,85
+Kera Zych,36,Japan,56,64
+Arletta Lash,14,Burma,81,91
+Karine Slemp,17,Saudi Arabia,84,70
+Earleen Twyman,30,Macau,62,49
+Sherrie Wayland,19,Sierra Leone,97,78
+Kera Zych,35,Burundi,92,59
+Ludie Christofferse,12,Cambodia,90,48
+Kera Zych,25,Liberia,80,43
+Bari Kowal,10,Pakistan,69,38
+Tempie Scharff,31,Australia,56,96
+Pandora Veliz,37,Cambodia,65,59
+Rosanna Holzer,28,Greece,80,42
+Andy Chu,13,South Korea,52,32
+Pandora Veliz,25,Pakistan,70,55
+Rosaline Varona,15,Nigeria,60,47
+Madelyn Brookshire,30,Oman,67,93
+Hosea Radabaugh,15,Philippines,79,92
+Fran Gamon,39,Brazil,88,62
+Pandora Veliz,12,Luxembourg,85,55
+Pandora Veliz,14,Saudi Arabia,68,42
+Fran Gamon,37,Tajikistan,58,68
+Melonie Elmore,19,Burundi,72,85
+Lanell Juan,20,Sudan,86,94
+Helena Notter,38,Spain ,85,47
+Jennie Wilbur,36,Cameroon,65,58
+Dee Zook,37,Estonia,63,97
+Tempie Scharff,24,El Salvador,97,70
+Christal Stenger,23,Thailand ,59,58
+Kasi Burford,20,China,62,84
+Rex Bisignano,36,Barbados,85,95
+Precious Stitt,12,Ethiopia,82,41
+Jennie Wilbur,34,Ethiopia,100,52
+Lilliam Blankenbaker,16,Zambia,89,89
+Flavia Childs,19,Madagascar,58,49
+Dee Zook,36,Curacao,95,71
+Ollie Lastrapes,20,Belarus,84,99
+Ping Pickert,12,Nepal,71,52
+Tressie Steib,18,Poland,51,53
+Kasi Burford,13,Rwanda,56,90
+Flavia Childs,32,Portugal,77,91
+Precious Stitt,34,Brunei ,64,57
+Shantelle Juarbe,17,Seychelles,68,69
+Precious Stitt,13,Bolivia,96,69
+Rex Bisignano,14,Chad,67,93
+Malena Albertson,26,Libya,71,82
+Rex Bisignano,10,South Africa,96,81
+Dee Zook,35,Barbados,54,97
+Sherrie Wayland,21,Macedonia,98,90
+Rosaline Varona,18,Iceland,99,79
+Rex Bisignano,33,Botswana,54,38
+Joe Chou,26,Belize,85,37
+Lizzie Middendorf,22,Philippines,59,34
+Herma Liebel,39,Cambodia,75,35
+Fran Gamon,30,Iran,77,57
+Kasi Burford,37,Lesotho,77,47
+Kasi Burford,15,Morocco,92,92
+Margert Rideout,21,Brazil,51,49
+Margert Rideout,20,Tonga,53,78
+Rosanna Holzer,25,Equatorial Guinea,88,39
+Andy Chu,36,Barbados,52,47
+Tempie Scharff,16,Mexico,98,52
+Ina Chesnut,30,Estonia,83,60
+Tressie Steib,31,Afghanistan,83,99
+Filomena Conely,23,Bulgaria,69,93
+Jannette Ashcroft,34,Curacao,85,85
+Ina Chesnut,26,Ghana,63,63
+Nedra Brien,33,Macau,75,92
+Nedra Brien,28,Italy,61,93
+Shantelle Juarbe,20,Kenya,57,78
+Fran Gamon,36,Algeria,77,98
+Kirin Chen,39,Kenya,87,33
+Jennie Wilbur,38,Senegal,69,69
+Kasi Burford,38,Saint Lucia,99,82
+Malena Albertson,11,Uzbekistan,74,47
+Jannette Ashcroft,14,Equatorial Guinea,70,87
+Loan Gautreau,27,Curacao,59,79
+Sherrie Wayland,21,Barbados,72,68
+Nedra Brien,35,Burundi,71,82
+Joesph Pasquariello,31,Guyana,95,97
+Loan Gautreau,35,Nepal,97,100
+Pandora Veliz,17,Slovakia,81,92
+Lanell Juan,34,Sweden,81,100
+Jennie Wilbur,16,Ukraine,59,42
+Karine Slemp,17,Cape Verde,62,79
+Kermit Sobotka,22,South Korea,70,33
+Christal Stenger,29,Papua New Guinea,78,86
+Jannette Ashcroft,21,Chad,99,61
+Melonie Elmore,26,Oman,65,52
+Chase Siders,11,Liechtenstein,83,55
+Shantelle Juarbe,12,Nigeria,78,42
+Hosea Radabaugh,17,Cuba,82,74
+Sherrie Wayland,19,Samoa ,85,48
+Kera Zych,38,Macedonia,57,49
+Lilliam Blankenbaker,29,Papua New Guinea,84,63
+Mozella Ganey,10,Serbia,64,33
+Mozella Ganey,37,Bhutan,99,74
+Herma Liebel,19,Malawi,61,68
+Karine Slemp,25,Armenia,84,53
+Margert Rideout,26,Czech Republic,81,95
+Christal Stenger,24,Equatorial Guinea,81,34
+Loan Gautreau,26,North Korea,97,42
+Lia Migues,22,Brunei ,62,65
+Pandora Veliz,38,Germany,96,90
+Christal Stenger,24,Palestinian Territories,51,78
+Lizzie Middendorf,20,Liberia,86,31
+Pandora Veliz,38,Uzbekistan,81,95
+Hosea Radabaugh,16,Paraguay,78,73
+Karine Slemp,24,Sint Maarten,65,38
+Herma Liebel,35,Colombia,61,69
+Joe Chou,15,Indonesia,57,38
+Nedra Brien,35,Angola,91,92
+Kera Zych,21,Ecuador,53,61
+Lilliam Blankenbaker,18,Fiji,85,99
+Fatima Whittenberg,34,Mauritius,52,58
+Pandora Veliz,11,Ghana,58,58
+Lizzie Middendorf,21,Armenia,61,51
+Hosea Radabaugh,24,Turkey,82,35
+Ina Chesnut,30,Antigua and Barbuda,81,69
+Jannette Ashcroft,33,Zambia,100,32
+Filomena Conely,10,Zambia,80,98
+Andy Chu,27,Nigeria,80,51
+Madelyn Brookshire,13,France,99,88
+Lizzie Middendorf,24,Qatar,73,65
+Shantelle Juarbe,33,Thailand ,94,33
+Rosaline Varona,24,Tuvalu,90,93
+Ping Pickert,23,Uruguay,67,48
+Precious Stitt,38,New Zealand,66,100
+Zetta Leary,12,Brunei ,72,75
+Earleen Twyman,23,Madagascar,69,90
+Kenyetta Longnecker,36,Saint Lucia,72,94
+Kirin Chen,39,Kiribati,54,45
+Kera Zych,30,Guinea-Bissau,99,33
+Ping Pickert,27,Suriname,100,68
+Bari Kowal,27,Singapore,60,66
+Earleen Twyman,13,Antigua and Barbuda,89,86
+Tressie Steib,36,Switzerland,77,57
+Sherrie Wayland,18,Russia,57,92
+Ludie Christofferse,28,Switzerland,70,86
+Rosamaria Espy,29,Bahrain,87,53
+Rosanna Holzer,18,Central African Republic,77,47
+Tressie Steib,37,Marshall Islands,92,93
+Joe Chou,35,Bhutan,58,77
+Earleen Twyman,23,China,84,37
+Kasi Burford,30,Bangladesh,64,84
+Ludie Christofferse,26,Iraq,71,67
+Lesia Gragg,22,Netherlands,92,58
+Andy Chu,29,Tanzania,54,63
+Mozella Ganey,16,Laos,65,60
+Christal Stenger,23,New Zealand,86,78
+Andy Chu,24,Colombia,56,93
+Hosea Radabaugh,20,Morocco,70,38
+Kirin Chen,17,United Kingdom,69,85
+Earleen Twyman,28,Saint Kitts and Nevis,70,80
+Bari Kowal,25,Liberia,54,91
+Leola Lawler,17,Niger,65,42
+Leola Lawler,37,Mozambique,66,36
+Lizzie Middendorf,11,Yemen,81,75
+Joe Chou,39,Canada,94,46
+Herma Liebel,26,Sudan,100,80
+Rosamaria Espy,23,Micronesia,84,82
+Pandora Veliz,26,Micronesia,62,47
+Helena Notter,24,Cape Verde,60,63
+Bari Kowal,39,Zimbabwe,82,56
+Neil Kreps,35,San Marino,73,64
+Karine Slemp,31,Angola,65,55
+Melonie Elmore,38,Malawi,59,57
+Andy Chu,22,Hong Kong,56,69
+Loan Gautreau,14,Azerbaijan,74,92
+Rosaline Varona,27,Ethiopia,82,60
+Hosea Radabaugh,16,Marshall Islands,66,42
+Zetta Leary,31,Denmark,97,82
+Margert Rideout,14,Sint Maarten,74,44
+Ina Chesnut,39,Madagascar,71,61
+Ludie Christofferse,33,San Marino,58,61
+Helena Notter,23,Cape Verde,74,91
+Loan Gautreau,32,Vanuatu,68,48
+Hosea Radabaugh,16,Ecuador,99,92
+Fran Gamon,39,Luxembourg,61,66
+Arletta Lash,10,Spain ,79,90
+Sherrie Wayland,34,Uganda,84,46
+Ludie Christofferse,11,Cameroon,87,57
+Kenyetta Longnecker,25,Maldives,95,79
+Filomena Conely,22,Lebanon,56,32
+Mozella Ganey,29,Tunisia,78,43
+Arletta Lash,32,Czech Republic,82,56
+Rosaline Varona,22,India,73,77
+Madelyn Brookshire,12,France,58,47
+Fran Gamon,18,Argentina,76,79
+Precious Stitt,14,Fiji,78,65
+Rosamaria Espy,16,Hungary,73,93
+Karine Slemp,15,Guatemala,61,99
+Lanell Juan,32,Malawi,64,54
+Earleen Twyman,14,Panama,85,66
+Madelyn Brookshire,29,Czech Republic,88,79
+Kasi Burford,36,Bulgaria,71,82
+Mozella Ganey,14,Somalia,69,90
+Mozella Ganey,25,Burma,57,76
+Loan Gautreau,39,Uruguay,70,87
+Tempie Scharff,29,South Sudan,58,44
+Kenyetta Longnecker,31,Latvia,80,44
+Zetta Leary,12,Kenya,91,97
+Fran Gamon,38,Tanzania,90,58
+Malena Albertson,29,Bhutan,53,92
+Tressie Steib,31,South Sudan,87,71
+Earleen Twyman,29,Argentina,80,82
+Kermit Sobotka,16,Romania,74,42
+Tempie Scharff,24,Nauru,100,86
+Lizzie Middendorf,37,United Arab Emirates,92,60
+Sherrie Wayland,28,Algeria,93,63
+Shantelle Juarbe,25,Romania,64,62
+Ping Pickert,22,Tonga,88,94
+Christal Stenger,11,South Africa,54,82
+Rosanna Holzer,11,Tunisia,81,97
+Herma Liebel,26,Taiwan,73,84
+Rosaline Varona,36,Djibouti,85,96
+Melonie Elmore,35,Argentina,73,65
+Karine Slemp,24,North Korea,52,75
+Karine Slemp,19,Lesotho,92,60
+Arletta Lash,29,Venezuela,86,91
+Jennie Wilbur,38,Netherlands,79,48
+Rosamaria Espy,18,Guatemala,51,74
+Ina Chesnut,12,Hungary,95,88
+Chase Siders,39,Estonia,86,74
+Arletta Lash,24,Lesotho,53,66
+Helena Notter,36,Netherlands,64,64
+Kenyetta Longnecker,38,Niger,93,39
+Hosea Radabaugh,34,Eritrea,87,100
+Karine Slemp,19,Albania,69,64
+Christal Stenger,17,Tonga,97,89
+Shantelle Juarbe,19,Liberia,66,86
+Neil Kreps,36,Slovenia,88,67
+Bari Kowal,18,Cape Verde,87,35
+Jannette Ashcroft,18,Macau,55,38
+Christal Stenger,11,Georgia,61,47
+Rosamaria Espy,34,South Sudan,73,99
+Margert Rideout,22,Bahrain,75,57
+Jannette Ashcroft,38,Palau,54,48
+Karine Slemp,18,Senegal,67,90
+Lia Migues,10,Saint Lucia,94,66
+Mozella Ganey,13,Jamaica,63,84
+Fran Gamon,39,Norway,71,35
+Lesia Gragg,13,Czech Republic,68,46
+Leola Lawler,21,Uganda,69,40
+Kasi Burford,13,Spain ,82,77
+Earleen Twyman,19,Tonga,77,100
+Sherrie Wayland,30,Somalia,81,48
+Ludie Christofferse,20,Estonia,59,94
+Tressie Steib,16,Fiji,73,61
+Kirin Chen,26,Saint Kitts and Nevis,90,46
+Lesia Gragg,34,Serbia,52,32
+Lesia Gragg,32,Serbia,85,63
+Earleen Twyman,16,Macau,77,78
+Rosanna Holzer,27,Ghana,51,45
+Christal Stenger,30,Singapore,75,32
+Flavia Childs,34,Belize,88,86
+Lilliam Blankenbaker,11,Bosnia and Herzegovina,95,56
+Pandora Veliz,27,Estonia,65,35
+Malena Albertson,11,Uganda,58,89
+Joesph Pasquariello,26,Australia,100,41
+Neil Kreps,25,Greece,94,91
+Tempie Scharff,19,Serbia,65,91
+Lizzie Middendorf,18,Vanuatu,51,76
+Lizzie Middendorf,10,Nepal,90,79
+Kenyetta Longnecker,15,Switzerland,98,40
+Rosamaria Espy,19,Latvia,92,38
+Jennie Wilbur,13,Laos,60,50
+Earleen Twyman,22,Burma,87,87
+Helena Notter,32,Ukraine,71,38
+Joesph Pasquariello,26,Tuvalu,76,92
+Kera Zych,11,Palestinian Territories,70,89
+Arletta Lash,32,United Arab Emirates,85,70
+Kenyetta Longnecker,30,Nepal,82,80
+Ping Pickert,37,Thailand ,80,66
+Tressie Steib,18,Togo,92,67
+Fatima Whittenberg,12,Malawi,79,89
+Fatima Whittenberg,19,Azerbaijan,54,44
+Andy Chu,34,Hong Kong,81,77
+Loan Gautreau,25,Brazil,62,64
+Mozella Ganey,18,Madagascar,97,41
+Bari Kowal,37,Samoa ,83,97
+Tressie Steib,26,Papua New Guinea,59,33
+Filomena Conely,17,Brunei ,87,47
+Andy Chu,22,Luxembourg,57,69
+Sherrie Wayland,33,Equatorial Guinea,79,37
+Filomena Conely,31,Venezuela,82,67
+Joe Chou,38,Guinea,58,58
+Chase Siders,19,Morocco,95,67
+Hosea Radabaugh,32,Libya,92,84
+Ina Chesnut,32,El Salvador,68,64
+Pandora Veliz,36,Namibia,82,63
+Andy Chu,20,Saint Lucia,52,82
+Earleen Twyman,34,Palestinian Territories,96,42
+Ludie Christofferse,17,Denmark,66,76
+Rosaline Varona,34,Armenia,75,57
+Ollie Lastrapes,34,Bolivia,89,33
+Fran Gamon,37,Qatar,97,61
+Rosamaria Espy,16,Swaziland ,71,59
+Helena Notter,21,Greece,66,84
+Kirin Chen,16,Angola,93,41
+Mozella Ganey,10,Togo,76,34
+Jennie Wilbur,26,Tajikistan,85,77
+Ludie Christofferse,21,Chad,73,88
+Nedra Brien,25,Mauritania,75,78
+Kera Zych,35,Latvia,58,97
+Neil Kreps,29,Lebanon,99,64
+Earleen Twyman,38,Kiribati,96,43
+Leola Lawler,37,United Kingdom,84,95
+Ludie Christofferse,35,Algeria,100,41
+Christal Stenger,15,Nigeria,92,87
+Arletta Lash,25,Madagascar,72,90
+Lilliam Blankenbaker,31,New Zealand,55,62
+Rosanna Holzer,36,Ecuador,99,51
+Joesph Pasquariello,34,Philippines,68,66
+Christal Stenger,10,Togo,91,32
+Jennie Wilbur,19,Vietnam,58,92
+Karine Slemp,33,Spain ,98,93
+Ludie Christofferse,18,Tonga,95,54
+Tempie Scharff,16,Gabon,90,72
+Andy Chu,13,Honduras,55,68
+Earleen Twyman,21,Greece,73,36
+Kirin Chen,13,South Africa,93,80
+Kera Zych,39,Malawi,54,54
+Filomena Conely,16,Saudi Arabia,73,52
+Sherrie Wayland,32,Slovakia,56,32
+Fran Gamon,22,Grenada,59,83
+Kirin Chen,22,Ecuador,74,55
+Lizzie Middendorf,35,Haiti,90,50
+Margert Rideout,32,Monaco,84,31
+Joe Chou,19,Angola,90,62
+Leola Lawler,27,Guinea-Bissau,95,71
+Malena Albertson,23,Malta,66,74
+Rosanna Holzer,16,Uruguay,81,97
+Fran Gamon,13,Uzbekistan,92,81
+Jannette Ashcroft,27,Bhutan,74,60
+Melonie Elmore,10,Solomon Islands,74,37
+Lesia Gragg,11,Kazakhstan,56,91
+Nedra Brien,15,Nigeria,55,84
+Leola Lawler,18,Haiti,93,40
+Jennie Wilbur,23,Kyrgyzstan,66,31
+Rosamaria Espy,20,Belgium,76,65
+Jennie Wilbur,21,Kenya,63,41
+Karine Slemp,34,Monaco,87,37
+Karine Slemp,30,Guatemala,98,99
+Lesia Gragg,19,Afghanistan,72,51
+Lia Migues,21,Sudan,76,92
+Margert Rideout,28,Slovenia,91,50
+Filomena Conely,23,Mozambique,94,94
+Jannette Ashcroft,29,Seychelles,86,90
+Zetta Leary,15,Ukraine,83,64
+Jannette Ashcroft,17,India,52,35
+Ludie Christofferse,25,Jamaica,51,51
+Nedra Brien,34,Niger,69,59
+Joe Chou,28,Turkey,53,58
+Ina Chesnut,16,Palestinian Territories,92,97
+Margert Rideout,24,Latvia,75,40
+Ludie Christofferse,18,Burma,94,72
+Jennie Wilbur,32,Jordan,97,47
+Fran Gamon,23,Samoa ,64,36
+Joesph Pasquariello,39,Monaco,81,87
+Flavia Childs,36,Indonesia,64,92
+Rosamaria Espy,39,Lithuania,63,85
+Ludie Christofferse,34,Andorra,57,69
+Neil Kreps,19,Argentina,92,79
+Madelyn Brookshire,18,Malta,94,85
+Karine Slemp,33,Belize,62,69
+Mozella Ganey,33,Serbia,93,82
+Kasi Burford,10,Estonia,99,52
+Joe Chou,14,South Africa,60,54
+Zetta Leary,36,Uganda,97,70
+Margert Rideout,39,Ghana,68,59
+Karine Slemp,19,Micronesia,92,82
+Joe Chou,12,Burundi,61,92
+Lizzie Middendorf,25,Austria,74,94
+Ina Chesnut,38,Andorra,91,87
+Mozella Ganey,24,United Kingdom,93,50
+Jennie Wilbur,16,South Africa,80,100
+Dee Zook,21,Aruba,59,34
+Andy Chu,27,Armenia,83,74
+Leola Lawler,39,Vietnam,74,59
+Lesia Gragg,27,North Korea,51,79
+Bari Kowal,22,Togo,95,79
+Joesph Pasquariello,27,Papua New Guinea,97,54
+Margert Rideout,16,Chile,83,52
+Sherrie Wayland,11,Pakistan,58,93
+Kenyetta Longnecker,24,Nigeria,58,78
+Malena Albertson,29,Belgium,94,79
+Madelyn Brookshire,19,Ethiopia,99,40
+Melonie Elmore,30,Djibouti,94,84
+Herma Liebel,37,Estonia,81,94
+Lanell Juan,35,Chile,52,56
+Margert Rideout,10,Liberia,53,54
+Melonie Elmore,29,Solomon Islands,62,49
+Lia Migues,24,Panama,61,53
+Lesia Gragg,35,Nicaragua,70,96
+Nedra Brien,19,Lebanon,51,92
+Tressie Steib,22,Marshall Islands,77,94
+Fran Gamon,34,Zimbabwe,60,61
+Ludie Christofferse,38,Pakistan,97,53
+Kasi Burford,37,Estonia,78,100
+Kasi Burford,11,Estonia,94,79
+Dee Zook,14,Brazil,87,37
+Loan Gautreau,10,Russia,66,63
+Lesia Gragg,33,Tunisia,90,57
+Joesph Pasquariello,33,Lebanon,56,72
+Joesph Pasquariello,12,Cyprus,61,71
+Kenyetta Longnecker,19,Brunei ,59,38
+Earleen Twyman,34,Iran,54,64
+Loan Gautreau,21,France,71,56
+Bari Kowal,28,Kosovo,92,60
+Earleen Twyman,10,Paraguay,82,74
+Rosaline Varona,26,Belarus,90,56
+Earleen Twyman,37,Sierra Leone,75,82
+Zetta Leary,10,Mexico,62,83
+Andy Chu,37,Azerbaijan,65,67
+Ina Chesnut,22,Niger,56,79
+Rosamaria Espy,20,Taiwan,69,58
+Lizzie Middendorf,27,Samoa ,83,74
+Sherrie Wayland,30,Vietnam,57,87
+Christal Stenger,35,Vietnam,74,41
+Tempie Scharff,15,Bosnia and Herzegovina,94,86
+Ollie Lastrapes,20,Cyprus,73,78
+Joe Chou,30,Papua New Guinea,60,78
+Loan Gautreau,23,Netherlands,85,84
+Lanell Juan,11,Eritrea,88,98
+Christal Stenger,21,South Sudan,84,33
+Lilliam Blankenbaker,23,Czech Republic,97,44
+Malena Albertson,15,Bahrain,76,59
+Rosaline Varona,30,Papua New Guinea,52,57
+Loan Gautreau,27,Sierra Leone,55,45
+Pandora Veliz,39,Guyana,88,57
+Tressie Steib,19,Rwanda,82,42
+Margert Rideout,25,Kuwait,57,32
+Rosanna Holzer,27,Kuwait,100,69
+Ludie Christofferse,12,Maldives,77,90
+Bari Kowal,15,Bolivia,98,79
+Kermit Sobotka,28,South Korea,60,84
+Rosanna Holzer,22,Spain ,70,93
+Ludie Christofferse,20,Macau,65,79
+Lia Migues,20,Bangladesh,58,85
+Zetta Leary,22,Indonesia,63,63
+Arletta Lash,21,Timor-Leste,88,41
+Precious Stitt,34,Guinea-Bissau,79,41
+Ina Chesnut,22,Iran,93,37
+Ludie Christofferse,12,Cape Verde,97,94
+Pandora Veliz,21,South Sudan,84,87
+Jannette Ashcroft,37,Mexico,96,47
+Arletta Lash,13,Palau,87,98
+Joesph Pasquariello,30,Iraq,97,52
+Rosanna Holzer,14,Nauru,56,72
+Lilliam Blankenbaker,24,Equatorial Guinea,51,67
+Earleen Twyman,20,Ghana,97,54
+Madelyn Brookshire,17,Burundi,85,100
+Helena Notter,15,Slovenia,76,48
+Margert Rideout,24,Finland,54,83
+Tempie Scharff,30,Comoros,85,53
+Loan Gautreau,23,Yemen,70,37
+Shantelle Juarbe,32,Burundi,74,75
+Herma Liebel,17,Suriname,81,99
+Malena Albertson,34,Cuba,62,91
+Karine Slemp,13,Belarus,65,69
+Melonie Elmore,32,Slovenia,89,48
+Andy Chu,11,Mexico,54,40
+Hosea Radabaugh,10,Cyprus,53,73
+Zetta Leary,16,Barbados,73,73
+Rex Bisignano,10,Cameroon,88,46
+Loan Gautreau,37,Egypt,58,93
+Rex Bisignano,35,Turkmenistan,66,97
+Leola Lawler,24,Tuvalu,94,79
+Jennie Wilbur,19,Curacao,63,47
+Fatima Whittenberg,19,Zambia,97,33
+Ollie Lastrapes,21,Laos,72,48
+Madelyn Brookshire,17,Cyprus,57,80
+Ina Chesnut,25,Switzerland,55,70
+Hosea Radabaugh,12,Togo,72,100
+Lesia Gragg,23,Kosovo,94,83
+Melonie Elmore,23,Saint Lucia,64,98
+Rosanna Holzer,26,Eritrea,78,31
+Sherrie Wayland,13,Ethiopia,65,67
+Rosamaria Espy,30,South Africa,69,40
+Kasi Burford,25,Monaco,85,84
+Dee Zook,31,Finland,100,37
+Lanell Juan,26,Burundi,55,72
+Herma Liebel,31,Rwanda,63,96
+Leola Lawler,31,Bahrain,69,88
+Lesia Gragg,28,Laos,78,31
+Neil Kreps,17,Lesotho,51,58
+Bari Kowal,23,Armenia,51,93
+Karine Slemp,28,Madagascar,52,100
+Ludie Christofferse,11,Greece,57,81
+Karine Slemp,27,Brazil,54,64
+Lanell Juan,27,Micronesia,100,51
+Malena Albertson,33,Azerbaijan,63,95
+Kenyetta Longnecker,14,Romania,59,78
+Fran Gamon,16,Saint Kitts and Nevis,80,67
+Fatima Whittenberg,15,Comoros,54,73
+Jennie Wilbur,39,Bulgaria,51,81
+Zetta Leary,19,Ecuador,61,87
+Melonie Elmore,21,Ghana,93,95
+Kera Zych,13,Somalia,74,52
+Zetta Leary,21,Barbados,100,69
+Ludie Christofferse,10,Kuwait,87,36
+Tempie Scharff,17,United Kingdom,85,92
+Melonie Elmore,36,Malaysia,89,83
+Bari Kowal,28,Cameroon,64,59
+Lanell Juan,35,Iran,62,90
+Kenyetta Longnecker,24,Sudan,96,88
+Ina Chesnut,32,Netherlands,70,88
+Malena Albertson,35,Saudi Arabia,86,94
+Fran Gamon,17,Romania,94,51
+Fatima Whittenberg,19,Guinea,74,43
+Andy Chu,32,Brunei ,100,98
+Ollie Lastrapes,26,Tonga,63,96
+Lizzie Middendorf,11,Togo,93,81
+Lizzie Middendorf,31,Chile,68,99
+Pandora Veliz,14,Moldova,69,44
+Mozella Ganey,31,Cambodia,90,40
+Jannette Ashcroft,22,Montenegro,99,47
+Lilliam Blankenbaker,18,Bangladesh,70,80
+Earleen Twyman,20,Senegal,85,76
+Nedra Brien,12,Guinea,96,61
+Loan Gautreau,39,Bangladesh,93,36
+Neil Kreps,34,Tonga,56,91
+Joe Chou,38,Lebanon,59,60
+Bari Kowal,14,Egypt,86,45
+Joe Chou,15,Switzerland,62,88
+Kera Zych,17,Micronesia,75,41
+Andy Chu,35,Netherlands,80,86
+Nedra Brien,26,Indonesia,59,73
+Andy Chu,38,Indonesia,68,41
+Kirin Chen,11,New Zealand,80,65
+Zetta Leary,34,Maldives,64,59
+Kasi Burford,14,Uruguay,94,49
+Joe Chou,16,Austria,64,89
+Sherrie Wayland,13,Peru,94,97
+Kasi Burford,33,Panama,82,47
+Sherrie Wayland,11,Bahrain,93,75
+Shantelle Juarbe,27,Italy,71,34
+Nedra Brien,19,Latvia,76,48
+Lizzie Middendorf,37,Brunei ,87,43
+Ludie Christofferse,33,Mauritania,57,86
+Ollie Lastrapes,26,Iraq,89,72
+Tressie Steib,36,Cuba,62,58
+Ina Chesnut,12,Iceland,78,67
+Jannette Ashcroft,15,Belarus,56,81
+Flavia Childs,32,Gabon,85,66
+Filomena Conely,19,India,64,83
+Ping Pickert,14,Ethiopia,76,72
+Karine Slemp,13,Sudan,65,82
+Ludie Christofferse,30,Somalia,59,63
+Malena Albertson,35,Greece,56,54
+Lizzie Middendorf,32,Guinea,81,97
+Rosanna Holzer,24,Slovenia,58,33
+Kasi Burford,34,Cyprus,79,50
+Filomena Conely,30,Hong Kong,62,35
+Lesia Gragg,12,Mali,96,47
+Ludie Christofferse,35,Togo,69,82
+Melonie Elmore,25,Sierra Leone,97,100
+Kera Zych,37,Tuvalu,61,59
+Lilliam Blankenbaker,22,Norway,81,59
+Rex Bisignano,18,Antigua and Barbuda,54,84
+Lanell Juan,10,Ecuador,56,32
+Lilliam Blankenbaker,10,Jamaica,78,33
+Madelyn Brookshire,30,Brazil,82,46
+Jannette Ashcroft,25,Trinidad and Tobago,83,80
+Filomena Conely,33,Togo,86,90
+Kenyetta Longnecker,16,Curacao,74,99
+Bari Kowal,22,Suriname,64,47
+Rex Bisignano,10,Sudan,53,48
+Pandora Veliz,19,Iceland,76,45
+Melonie Elmore,24,Micronesia,85,52
+Jannette Ashcroft,26,Egypt,80,38
+Margert Rideout,31,Kuwait,94,72
+Nedra Brien,21,Tonga,63,35
+Karine Slemp,31,El Salvador,70,59
+Joe Chou,12,Italy,99,34
+Hosea Radabaugh,31,India,96,69
+Rosanna Holzer,36,South Sudan,83,51
+Andy Chu,23,Nepal,75,55
+Kermit Sobotka,32,Angola,78,54
+Filomena Conely,10,Kyrgyzstan,89,42
+Zetta Leary,11,Malawi,60,44
+Mozella Ganey,17,China,71,41
+Flavia Childs,35,Qatar,66,58
+Lanell Juan,21,Haiti,66,99
+Hosea Radabaugh,31,Sierra Leone,81,63
+Melonie Elmore,11,Cameroon,75,87
+Rosanna Holzer,10,Mozambique,64,81
+Sherrie Wayland,23,Macau,57,32
+Ping Pickert,36,Botswana,91,59
+Tressie Steib,14,Bangladesh,71,97
+Ping Pickert,36,Seychelles,93,78
+Herma Liebel,14,Solomon Islands,91,58
+Kirin Chen,27,Uganda,82,55
+Flavia Childs,35,Colombia,65,74
+Karine Slemp,21,Brazil,84,36
+Margert Rideout,20,Djibouti,51,36
+Jannette Ashcroft,12,Guyana,70,83
+Kenyetta Longnecker,36,Bulgaria,81,97
+Lia Migues,20,South Sudan,65,70
+Fran Gamon,18,Fiji,66,47
+Margert Rideout,39,Venezuela,59,89
+Kenyetta Longnecker,35,Haiti,73,99
+Joe Chou,30,Swaziland ,55,86
+Joesph Pasquariello,25,Albania,77,67
+Jennie Wilbur,35,Turkmenistan,59,88
+Bari Kowal,10,Kyrgyzstan,76,76
+Rex Bisignano,17,Tanzania,80,97
+Pandora Veliz,16,Ecuador,56,71
+Arletta Lash,29,Mexico,100,76
+Joesph Pasquariello,32,Kenya,78,34
+Tressie Steib,39,Mauritius,97,100
+Mozella Ganey,33,Central African Republic,92,80
+Bari Kowal,33,Netherlands,70,85
+Sherrie Wayland,12,Australia,83,36
+Lesia Gragg,17,Turkmenistan,59,50
+Flavia Childs,20,Sweden,68,95
+Shantelle Juarbe,25,Jordan,66,61
+Helena Notter,38,Argentina,85,93
+Malena Albertson,38,Sierra Leone,96,93
+Madelyn Brookshire,35,Marshall Islands,83,69
+Loan Gautreau,16,Papua New Guinea,71,62
+Herma Liebel,33,Zambia,62,52
+Kenyetta Longnecker,31,Aruba,94,67
+Flavia Childs,17,Burkina Faso,71,43
+Mozella Ganey,17,Solomon Islands,87,69
+Ollie Lastrapes,38,Comoros,56,38
+Dee Zook,24,Uzbekistan,53,35
+Kenyetta Longnecker,37,Swaziland ,96,71
+Rosaline Varona,16,Mongolia,89,94
+Helena Notter,24,Vietnam,100,66
+Ollie Lastrapes,17,Taiwan,70,53
+Rosamaria Espy,24,Argentina,93,46
+Lanell Juan,17,Finland,58,72
+Melonie Elmore,35,Libya,96,46
+Kasi Burford,39,China,93,93
+Loan Gautreau,19,Latvia,65,62
+Fatima Whittenberg,38,Saudi Arabia,79,77
+Mozella Ganey,31,Liberia,87,32
+Rex Bisignano,10,Cambodia,82,39
+Karine Slemp,21,Colombia,90,34
+Kermit Sobotka,34,Mongolia,55,82
+Earleen Twyman,15,Syria,98,73
+Nedra Brien,25,Colombia,74,68
+Neil Kreps,10,Italy,70,78
+Zetta Leary,24,Mauritius,82,73
+Ina Chesnut,37,Kazakhstan,80,45
+Arletta Lash,21,Cuba,87,38
+Precious Stitt,13,Indonesia,87,46
+Hosea Radabaugh,27,Brazil,51,98
+Helena Notter,29,Lesotho,81,76
+Tempie Scharff,27,Tuvalu,90,35
+Flavia Childs,23,North Korea,58,98
+Earleen Twyman,37,Singapore,66,43
+Joe Chou,21,Bhutan,94,91
+Shantelle Juarbe,28,Nicaragua,54,63
+Helena Notter,15,Norway,75,52
+Kasi Burford,31,Hungary,88,40
+Mozella Ganey,39,Taiwan,90,60
+Kenyetta Longnecker,35,Qatar,80,71
+Mozella Ganey,38,Djibouti,92,50
+Flavia Childs,39,Iraq,97,51
+Fran Gamon,24,Mozambique,90,84
+Kenyetta Longnecker,17,Montenegro,73,45
+Ping Pickert,12,Albania,76,57
+Rosanna Holzer,12,United Kingdom,97,51
+Ping Pickert,18,Mali,72,99
+Dee Zook,27,Sweden,72,67
+Christal Stenger,25,Italy,61,72
+Lia Migues,32,Hong Kong,54,48
+Madelyn Brookshire,33,Uzbekistan,98,62
+Filomena Conely,36,Jordan,57,68
+Kenyetta Longnecker,32,Turkey,85,93
+Bari Kowal,37,Nigeria,99,77
+Rex Bisignano,20,Qatar,73,48
+Christal Stenger,33,Denmark,86,67
+Zetta Leary,36,Chad,65,98
+Dee Zook,33,Netherlands Antilles,76,65
+Malena Albertson,11,Cameroon,94,42
+Ping Pickert,24,Malaysia,73,71
+Joe Chou,15,Algeria,92,54
+Joesph Pasquariello,15,Cambodia,63,59
+Mozella Ganey,16,Samoa ,84,85
+Zetta Leary,17,Czech Republic,63,58
+Filomena Conely,38,Thailand ,76,56
+Margert Rideout,29,Somalia,60,98
+Mozella Ganey,21,Burundi,63,32
+Kermit Sobotka,36,Netherlands,66,90
+Helena Notter,11,Trinidad and Tobago,91,78
+Jennie Wilbur,39,Mauritania,79,76
+Lizzie Middendorf,32,Papua New Guinea,71,39
+Lesia Gragg,15,Albania,60,42
+Madelyn Brookshire,18,Lesotho,52,54
+Rosamaria Espy,20,United Kingdom,81,67
+Helena Notter,37,Tanzania,88,51
+Fran Gamon,23,Venezuela,85,94
+Andy Chu,24,South Sudan,82,59
+Melonie Elmore,28,Syria,77,99
+Karine Slemp,21,Micronesia,88,78
+Leola Lawler,32,Bangladesh,52,53
+Jennie Wilbur,12,Senegal,100,70
+Jannette Ashcroft,21,Madagascar,86,64
+Nedra Brien,15,Austria,58,74
+Margert Rideout,26,Burundi,97,100
+Shantelle Juarbe,14,Nauru,84,73
+Dee Zook,39,Antigua and Barbuda,96,99
+Joesph Pasquariello,31,Tunisia,80,92
+Lia Migues,11,Kiribati,69,67
+Karine Slemp,34,Argentina,70,89
+Joe Chou,23,Kyrgyzstan,99,56
+Fran Gamon,24,Romania,80,82
+Nedra Brien,28,Fiji,75,72
+Joe Chou,23,Brunei ,81,67
+Earleen Twyman,34,Cuba,66,61
+Sherrie Wayland,17,China,91,52
+Lizzie Middendorf,26,Aruba,67,75
+Neil Kreps,17,Hong Kong,75,93
+Lizzie Middendorf,10,Benin,60,70
+Jennie Wilbur,24,Honduras,55,71
+Leola Lawler,27,Armenia,77,45
+Arletta Lash,21,Iraq,69,60
+Helena Notter,27,Estonia,93,88
+Rosamaria Espy,11,Denmark,81,53
+Earleen Twyman,38,Denmark,91,75
+Neil Kreps,20,Rwanda,64,55
+Jennie Wilbur,16,Aruba,71,35
+Lizzie Middendorf,13,Singapore,71,50
+Bari Kowal,27,Sudan,63,93
+Kenyetta Longnecker,23,Panama,75,90
+Earleen Twyman,13,Tonga,79,67
+Lesia Gragg,18,Andorra,75,87
+Malena Albertson,23,Chile,71,94
+Bari Kowal,15,Albania,94,67
+Joesph Pasquariello,31,Honduras,97,100
+Earleen Twyman,31,Cambodia,55,40
+Ina Chesnut,31,Saudi Arabia,52,46
+Lanell Juan,23,Monaco,57,59
+Hosea Radabaugh,20,Pakistan,71,55
+Tempie Scharff,20,Fiji,72,66
+Jannette Ashcroft,10,Tunisia,55,93
+Nedra Brien,18,Turkmenistan,90,94
+Hosea Radabaugh,29,Sint Maarten,55,44
+Ina Chesnut,19,Somalia,72,78
+Neil Kreps,15,Ghana,97,80
+Fatima Whittenberg,21,Rwanda,76,85
+Madelyn Brookshire,37,Suriname,91,46
+Madelyn Brookshire,32,Nicaragua,78,95
+Filomena Conely,37,Burundi,64,42
+Herma Liebel,29,Zimbabwe,67,73
+Bari Kowal,32,Venezuela,77,49
+Leola Lawler,13,South Korea,59,63
+Ollie Lastrapes,30,Cape Verde,88,33
+Chase Siders,26,Romania,77,78
+Kirin Chen,10,Bahrain,84,89
+Kasi Burford,17,Macau,51,75
+Lilliam Blankenbaker,24,Vietnam,99,57
+Christal Stenger,25,Tajikistan,80,35
+Rosanna Holzer,16,Jamaica,59,93
+Rosaline Varona,28,Liechtenstein,88,37
+Fran Gamon,13,India,99,62
+Kenyetta Longnecker,28,Guinea-Bissau,87,80
+Kera Zych,23,Zimbabwe,88,44
+Rosaline Varona,24,Spain ,96,89
+Fran Gamon,15,Kosovo,51,65
+Earleen Twyman,33,Mongolia,92,79
+Loan Gautreau,39,Albania,88,38
+Lesia Gragg,18,Yemen,59,81
+Lizzie Middendorf,30,Malawi,63,41
+Flavia Childs,21,Burkina Faso,100,71
+Ludie Christofferse,38,Luxembourg,63,81
+Sherrie Wayland,36,Ireland,86,31
+Melonie Elmore,21,Comoros,68,79
+Jannette Ashcroft,38,Mongolia,65,64
+Pandora Veliz,26,Mexico,58,37
+Kera Zych,17,Czech Republic,82,92
+Loan Gautreau,26,Bhutan,55,78
+Filomena Conely,13,China,80,35
+Dee Zook,35,Colombia,92,76
+Leola Lawler,21,Czech Republic,68,59
+Madelyn Brookshire,12,Angola,68,51
+Neil Kreps,14,Papua New Guinea,81,69
+Helena Notter,12,Brunei ,74,60
+Ina Chesnut,26,Cyprus,88,72
+Rex Bisignano,22,Azerbaijan,61,73
+Nedra Brien,17,Chad,76,70
+Rosaline Varona,29,Chad,58,39
+Lizzie Middendorf,23,Luxembourg,88,75
+Tressie Steib,16,Saudi Arabia,64,94
+Filomena Conely,34,Hungary,75,45
+Lanell Juan,37,Kiribati,84,42
+Rosaline Varona,19,Tajikistan,100,100
+Lia Migues,22,Venezuela,69,88
+Kera Zych,27,Lesotho,59,47
+Andy Chu,26,Kazakhstan,64,78
+Kermit Sobotka,29,Sudan,91,53
+Nedra Brien,17,Venezuela,73,89
+Chase Siders,34,Nicaragua,51,32
+Andy Chu,35,Nepal,69,95
+Earleen Twyman,22,Taiwan,77,87
+Fran Gamon,27,Poland,96,64
+Ping Pickert,35,Romania,86,40
+Fran Gamon,25,Benin,99,59
+Madelyn Brookshire,24,Spain ,53,100
+Christal Stenger,38,Macau,93,94
+Flavia Childs,11,United Arab Emirates,57,34
+Rosaline Varona,12,Barbados,98,87
+Tempie Scharff,24,Thailand ,83,80
+Arletta Lash,31,France,63,60
+Lanell Juan,12,Brunei ,95,78
+Margert Rideout,13,Swaziland ,99,99
+Joe Chou,37,Indonesia,61,64
+Nedra Brien,33,Malaysia,97,80
+Kermit Sobotka,15,Micronesia,62,39
+Lesia Gragg,20,Chile,68,44
+Joesph Pasquariello,33,North Korea,74,39
+Kenyetta Longnecker,11,Guinea,94,48
+Jennie Wilbur,22,Kazakhstan,55,59
+Hosea Radabaugh,26,Samoa ,82,36
+Tempie Scharff,25,Zambia,77,54
+Madelyn Brookshire,19,Turkey,65,87
+Sherrie Wayland,39,Guinea-Bissau,63,82
+Jannette Ashcroft,20,Andorra,83,56
+Fran Gamon,35,Greece,85,37
+Tempie Scharff,19,Jamaica,96,86
+Christal Stenger,33,Comoros,90,98
+Lia Migues,19,Italy,90,46
+Joesph Pasquariello,36,India,93,56
+Precious Stitt,14,Belgium,58,53
+Flavia Childs,25,Uganda,69,47
+Lilliam Blankenbaker,24,Macau,93,72
+Ollie Lastrapes,11,Equatorial Guinea,75,55
+Lia Migues,26,Australia,53,67
+Shantelle Juarbe,20,Comoros,82,75
+Kenyetta Longnecker,19,Malta,76,82
+Herma Liebel,22,Nepal,77,37
+Leola Lawler,35,Hong Kong,91,96
+Lilliam Blankenbaker,35,Albania,54,39
+Tempie Scharff,38,Netherlands Antilles,71,55
+Tempie Scharff,30,Georgia,85,73
+Nedra Brien,32,Guinea-Bissau,74,33
+Lilliam Blankenbaker,31,Mozambique,59,100
+Pandora Veliz,33,Belgium,97,72
+Tempie Scharff,10,Australia,77,82
+Pandora Veliz,36,Saudi Arabia,86,55
+Ping Pickert,28,Netherlands Antilles,85,75
+Shantelle Juarbe,35,Mauritania,98,61
+Rosamaria Espy,12,South Sudan,62,87
+Leola Lawler,33,Curacao,59,82
+Fatima Whittenberg,18,Laos,80,53
+Ina Chesnut,38,Greece,96,56
+Kermit Sobotka,10,Netherlands Antilles,87,34
+Lizzie Middendorf,29,Syria,83,81
+Christal Stenger,28,Belize,80,43
+Melonie Elmore,25,Saudi Arabia,93,65
+Christal Stenger,23,Malaysia,51,74
+Fatima Whittenberg,33,Bosnia and Herzegovina,79,59
+Mozella Ganey,12,Taiwan,53,35
+Lesia Gragg,30,Swaziland ,77,40
+Hosea Radabaugh,35,Brunei ,100,43
+Hosea Radabaugh,14,Saint Lucia,64,57
+Ollie Lastrapes,35,Burkina Faso,85,99
+Kera Zych,19,Norway,59,33
+Helena Notter,20,Liberia,56,88
+Chase Siders,21,Iceland,84,44
+Filomena Conely,28,Malaysia,80,57
+Andy Chu,14,Maldives,56,82
+Helena Notter,29,South Korea,71,57
+Earleen Twyman,35,Ireland,95,47
+Helena Notter,29,Seychelles,75,41
+Rosamaria Espy,10,Colombia,64,94
+Melonie Elmore,17,Algeria,90,98
+Ina Chesnut,35,Mauritius,90,46
+Leola Lawler,23,Madagascar,87,55
+Ludie Christofferse,15,El Salvador,63,41
+Madelyn Brookshire,12,Egypt,62,31
+Dee Zook,25,Ecuador,69,55
+Rosamaria Espy,30,Macedonia,90,44
+Kasi Burford,37,Lebanon,61,33
+Sherrie Wayland,24,Macau,76,78
+Lilliam Blankenbaker,39,Sudan,91,99

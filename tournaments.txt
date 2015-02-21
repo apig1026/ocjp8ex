@@ -1,0 +1,30 @@
+Tournament#0,Ireland,137515.61,40,45
+Tournament#1,Equatorial Guinea,128422.20,22,66
+Tournament#2,Djibouti,110485.69,44,72
+Tournament#3,Algeria,137708.56,15,39
+Tournament#4,Hungary,116660.39,23,71
+Tournament#5,Somalia,154671.06,16,42
+Tournament#6,Azerbaijan,117357.12,14,29
+Tournament#7,Panama,171265.56,39,48
+Tournament#8,Iceland,136735.77,14,43
+Tournament#9,Albania,178521.69,29,60
+Tournament#10,Estonia,117282.83,6,47
+Tournament#11,Sri Lanka,153743.89,8,54
+Tournament#12,Namibia,159139.51,13,14
+Tournament#13,Tunisia,100501.74,17,31
+Tournament#14,Sweden,137414.44,21,35
+Tournament#15,Tanzania,148050.20,36,66
+Tournament#16,Kiribati,116621.62,17,40
+Tournament#17,Ghana,141820.46,20,25
+Tournament#18,Cameroon,106384.28,11,31
+Tournament#19,Kyrgyzstan,181621.92,49,58
+Tournament#20,Bosnia and Herzegovina,127545.18,31,32
+Tournament#21,Tuvalu,189195.98,45,84
+Tournament#22,Vanuatu,182824.06,23,72
+Tournament#23,Portugal,111762.33,46,57
+Tournament#24,Malaysia,151162.84,18,29
+Tournament#25,Zimbabwe,193198.19,4,44
+Tournament#26,Algeria,149899.16,24,65
+Tournament#27,Belize,169491.30,26,72
+Tournament#28,Kosovo,133908.94,38,48
+Tournament#29,Curacao,170107.23,45,80
