@@ -1,4 +1,4 @@
-package com.ajoshow.ocjp8ex;
+package com.ajoshow.ocjp8ex.utils;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
