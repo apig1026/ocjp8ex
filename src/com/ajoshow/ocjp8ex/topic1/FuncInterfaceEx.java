@@ -15,7 +15,7 @@ public class FuncInterfaceEx {
 //	interface Foo4 extends Foo3{ void foo();}
 	
 //	@FunctionalInterface
-//	interface Foo5 { default void foo();}
+//	interface Foo5 { default void foo(){};}
 	
 //	@FunctionalInterface
 //	interface Foo6 extends Foo5 { void foo();}
