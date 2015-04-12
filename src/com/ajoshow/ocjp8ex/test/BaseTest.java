@@ -2,6 +2,7 @@ package com.ajoshow.ocjp8ex.test;
 
 import static org.junit.Assert.assertEquals;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Before;
@@ -36,9 +37,23 @@ public abstract class BaseTest {
 	 *            this method should be the same as this value.
 	 */
 	public abstract void withJava8(Object expectedResult);
+	
+	/**
+	 * Initialization
+	 */
+	public void init(){}
+	
+	public List<Player> getPlayers(){
+		List<Player> ps = new ArrayList<Player>();
+		for(Player p : players){
+			ps.add(p);
+		}
+		return ps;
+	}
 
 	@Test
 	public void testExercise() {
+		init();
 		withJava8(withJava());
 	}
 

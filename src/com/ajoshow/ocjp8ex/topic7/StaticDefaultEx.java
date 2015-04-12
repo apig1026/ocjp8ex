@@ -19,5 +19,4 @@ public class StaticDefaultEx {
 			// ok, this is a class method
 		}
 	}
-	
 }
